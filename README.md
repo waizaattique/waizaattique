@@ -42,15 +42,6 @@ I build clean, accessible digital experiences — and I work with the data and l
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waizaattique&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizaattique&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
@@ -63,7 +54,6 @@ I build clean, accessible digital experiences — and I work with the data and l
 </p>
 
 <p align="center"><i>📍 Lahore, Punjab, Pakistan</i></p>
-
 <!--
 **waizaattique/waizaattique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
